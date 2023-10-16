@@ -1,4 +1,4 @@
-//
+// ********** INTERFACE FILE **********
 //  Reg.hpp
 //  ProgrammingWorkshop4
 //

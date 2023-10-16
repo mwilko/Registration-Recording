@@ -1,4 +1,4 @@
-//
+// ********** IMPLEMENTATION FILE **********
 //  Reg.cpp
 //  ProgrammingWorkshop4
 //
