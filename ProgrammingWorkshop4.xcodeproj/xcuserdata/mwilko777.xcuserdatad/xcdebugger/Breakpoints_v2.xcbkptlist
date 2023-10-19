@@ -7,72 +7,8 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "755B61A9-B4F2-4075-8603-7B18D91CC278"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ProgrammingWorkshop4/Reg.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
-            landmarkName = "Registration::input()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CEA144DD-F298-4850-9E50-9D978D5BA206"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ProgrammingWorkshop4/Reg.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "Registration::output()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2771466C-0E91-4D1D-BBF8-47AAACB6C06A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ProgrammingWorkshop4/Reg.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
-            landmarkName = "Registration::setRecord(index)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "969F414A-975D-4402-8B49-DE4B55382592"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ProgrammingWorkshop4/Reg.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
-            landmarkName = "Registration::checkCode()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "A6814CDF-3D5E-44E7-8C87-B0F873F8B5CD"
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ProgrammingWorkshop4/Reg.cpp"
@@ -82,36 +18,52 @@
             endingLineNumber = "59"
             landmarkName = "Registration::getCode()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6814CDF-3D5E-44E7-8C87-B0F873F8B5CD - 87cbe8988cfa8349"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::getCode()"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "A6814CDF-3D5E-44E7-8C87-B0F873F8B5CD - 87cbe8988cfa82ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::getCode()"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "9D388D46-64DA-4197-A72A-8F37F3F4BD42"
-            shouldBeEnabled = "No"
+            uuid = "258135C6-FC34-455E-AD68-D9E632F35135"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ProgrammingWorkshop4/Reg.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "58"
-            endingLineNumber = "58"
-            landmarkName = "Registration::getCode()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "ADB18687-7CF6-46C4-88B8-EEB0A77AF8F7"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ProgrammingWorkshop4/Reg.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "Registration::input()"
             landmarkType = "7">
          </BreakpointContent>
@@ -119,15 +71,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "704D660C-32D3-4D6A-917B-5D68FF87D7CA"
-            shouldBeEnabled = "No"
+            uuid = "26A10986-53D4-4894-A1D5-6984898B48DB"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ProgrammingWorkshop4/Reg.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
             landmarkName = "Registration::input()"
             landmarkType = "7">
          </BreakpointContent>
@@ -135,33 +87,193 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "44F1D567-9C82-45E4-86C1-439B814E1B49"
-            shouldBeEnabled = "No"
+            uuid = "ED8833A4-5421-4EB3-A028-BA4E03ACFB37"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "ProgrammingWorkshop4/Reg.cpp"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "Registration::setRecord(index)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "018D897F-7892-4012-99A2-52FC866CEDD3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "ProgrammingWorkshop4/Reg.cpp"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
             landmarkName = "Registration::checkCode()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED8833A4-5421-4EB3-A028-BA4E03ACFB37 - 52638e986a490bd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::checkCode()"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "ED8833A4-5421-4EB3-A028-BA4E03ACFB37 - 52638e986a493476"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::checkCode()"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FAFB6C4-8328-44DD-8B83-4777ABE3187A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammingWorkshop4/Reg.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "Registration::checkCode()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2FAFB6C4-8328-44DD-8B83-4777ABE3187A - 52638e986a493457"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::checkCode()"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "2FAFB6C4-8328-44DD-8B83-4777ABE3187A - 52638e986a4934ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::checkCode()"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E6ECB5F-8B45-4297-A14D-52BBEA785F74"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammingWorkshop4/Reg.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "Registration::setRecord(index)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E6ECB5F-8B45-4297-A14D-52BBEA785F74 - 9086a079d13a2122"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::setRecord(bool)"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "6E6ECB5F-8B45-4297-A14D-52BBEA785F74 - 9086a079d13a21bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::setRecord(bool)"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BD05754-F7D1-4C52-B993-5A0A3C88B4B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProgrammingWorkshop4/Reg.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "Registration::setRecord(index)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BD05754-F7D1-4C52-B993-5A0A3C88B4B2 - 9086a079d13a219c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::setRecord(bool)"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6BD05754-F7D1-4C52-B993-5A0A3C88B4B2 - 9086a079d13a21ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Registration::setRecord(bool)"
+                  moduleName = "ProgrammingWorkshop4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mwilko777/Desktop/Workshop4Programming/ProgrammingWorkshop4/ProgrammingWorkshop4/Reg.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

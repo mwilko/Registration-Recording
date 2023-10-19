@@ -19,7 +19,7 @@ public://variables and functions that can be accessed anywhere outside of the cl
     void setRecord(bool index);//function which checks the given parameter and changes attend string according to it.
     int getCode();//Returns the input code.
 
-private:
+private://variables and functions that can not be accessed anywhere outside of the class.
     bool checkCode(); //to check the input matches the access code
     int code;//integer variable which stores the user input
     std::string attend;//string which is editted by setRecord function if the user input is correct or not. After this it is displayed in the output function.

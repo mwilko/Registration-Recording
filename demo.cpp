@@ -21,7 +21,7 @@ int main()//integer function main is the entry point for every C++ program. Here
     if (myCode.input())//if statement calls input function, if returned true code below is executed (code is valid):
     {
         cout << "The input code is " << myCode.getCode() << "\n";//expression which uses the myCode object and calls the getCode function which returns the user inputted code
-        cout << "The system has been updated with ";
+        cout << "The system has been updated with TRUE: ";
         myCode.output();//outputs attend = TRUE (because code is correct)
         
     }
@@ -29,6 +29,8 @@ int main()//integer function main is the entry point for every C++ program. Here
     {
         cout << "Your input code " << myCode.getCode() << " doesn't match the access code\n";//expression which uses the myCode object and calls the getCode function which returns the user inputted code
         cout << "Register unsuccessfully. \n";
+        cout << "The system has been updated with FALSE: ";
+        myCode.output();//outputs attend = False (because code is incorrect)
     }
     return 0;
 }

@@ -17,12 +17,12 @@ bool Registration::input()//boolean function of Registration class return true i
     cin >> code;
     if (checkCode())//if checkCode returns true:
     {
-        setRecord(true);//function which sets 'attend' string to TRUE
+        setRecord(true);//function which sets 'attend' string to TRUE (1)
         return true;//code is correct
     }
     else//if checkCode returns false:
     {
-        setRecord(false);//function which sets 'attend' string to False
+        setRecord(false);//function which sets 'attend' string to FALSE (0)
         return false;//code is incorrect
     }
 }
@@ -35,9 +35,9 @@ void Registration::output()//void function (which doesnt need to return anything
 void Registration::setRecord(bool index)//void function (which doesnt need to return anything), uses parameter value and sets string value accordingly
 {
     if (index)//if parameter == true.
-        attend = "TRUE";//set attend string to TRUE
+        attend = "1";//set attend string to TRUE
     else//if parameter == false.
-        attend = "False";//set attend string to False
+        attend = "0";//set attend string to False
 }
 
 bool Registration::checkCode()//boolean function checks if code entered is valid or not. (returns true if code is correct, false if its not)
